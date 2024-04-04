@@ -1,3 +1,4 @@
 # demo-project
 this is my first git repository
-author ajay 
+author ajay  
+learning git commands
